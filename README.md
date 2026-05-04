@@ -57,6 +57,11 @@
 *   **GitHub:** [Diloshan01](https://github.com/Diloshan01)
 
 ---
+
 <p align="center">
-  <i>"අද කරන කැපවීම හෙට දවසේ ඔබේ ජයග්‍රහණයයි!"</i>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVkaHZ5MDBlaHp1amgyMGRjcjg2ZDZnNm9laDEza3F0eW56b2F1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqpyyOfIrXI3MFfJH9/giphy.gif" width="600">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=The+commitment+you+make+today...;is+your+victory+tomorrow!;🚀+DILOSHAN+LK+OFFICIAL" alt="Typing SVG" />
 </p>
