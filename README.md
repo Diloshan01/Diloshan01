@@ -43,6 +43,17 @@
 ---
 
 ### 📫 මාව සම්බන්ධ කරගන්න:
+* <p align="center">
+  <a href="https://www.youtube.com/@TechZevron-x3z">
+    <img src="https://img.shields.io/badge/YouTube-TechZevron-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="TechZevron YouTube" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@TechZevron-x3z">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=SUBSCRIBE+TO+TechZevron;Robotics+%26+Coding+Tutorials;Success+starts+with+commitment!" alt="Typing SVG" />
+  </a>
+</p>
 *   **GitHub:** [Diloshan01](https://github.com/Diloshan01)
 
 ---
